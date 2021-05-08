@@ -2,8 +2,8 @@ body{
     background-color: lightseagreen;
 }
 
-.myface{
-    border-radius: 50;
+#portrait{
+    border-radius: 50%;
     height: 200px;
     width: 200px;
 }
