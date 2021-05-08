@@ -6,6 +6,7 @@ body{
 #header{
     display: flex;
     margin: 50px 150px;
+    justify-content: center;
 }
 
 #portrait{
