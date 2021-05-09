@@ -95,4 +95,5 @@ h2{
 .referencewrapper{
     margin:30px auto;
     flex-basis: 30%;
+    text-align: center;
 }
