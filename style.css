@@ -9,8 +9,11 @@ body{
     background-color: white;
 }
 
-#menu li{
+#menu ul{
     display: flex;
+}
+
+#menu li{
     list-style-type: none;
 }
 
