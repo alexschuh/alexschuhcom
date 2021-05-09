@@ -29,12 +29,13 @@ body{
 }
 
 .button{
-    border-radius: 15px;
+    border-radius: 3px;
     border: 2px solid #193B2D;
     height: 40px;
     line-height: 40px;
     padding: 0 15px;
     margin-top: 13px;
+    transform: skewX(-6deg);
 }
 
 #header{
