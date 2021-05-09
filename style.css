@@ -38,6 +38,10 @@ h2{
     margin: 0 25px;
 }
 
+#menu img{
+    height: 50px;
+}
+
 .button{
     border-radius: 3px;
     border: 2px solid #193B2D;
