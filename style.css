@@ -5,7 +5,6 @@ body{
 }
 
 #menu{
-    width: 100%;
     background-color:#17b978;
     height: 70px;
     color: #193B2D;
@@ -14,16 +13,15 @@ body{
 
 #menu li{
     list-style-type: none;
-    display: inline;
     height: 70px;
     line-height: 70px;
     margin: 0 25px;
+    float: right;
 }
 
 .button{
     border-radius: 15px;
     border: 1px solid #193B2D;
-    display: inline-block;
     height: 40px;
     line-height: 40px;
     padding: 0 15px;
