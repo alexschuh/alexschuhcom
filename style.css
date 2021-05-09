@@ -20,6 +20,11 @@ body{
     margin: 0 25px;
 }
 
+.button{
+    border-radius: 15px;
+    border: 1px solid #193B2D;
+}
+
 #header{
     display: flex;
     margin: 50px auto;
