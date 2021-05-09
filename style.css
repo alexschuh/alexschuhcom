@@ -32,7 +32,7 @@ h3{
     font-size: 18px;
     display: flex;
     justify-content: flex-end;
-    padding-right: 40px;
+    padding: 0px 40px 0px 0px;
     font-style: italic;
     position: fixed;
     width: 100%;
