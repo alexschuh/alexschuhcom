@@ -85,6 +85,7 @@ h2{
     flex-flow: row wrap;
     margin-top: 50px;
     width: 800px;
+    margin: auto;
 }
 
 #references img{
