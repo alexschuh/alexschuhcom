@@ -14,7 +14,7 @@ body{
 
 #menu{
     background-color:#17b978;
-    height: 70px;
+    height: 80px;
     color: #193B2D;
     font-size: 18px;
     display: flex;
@@ -24,8 +24,8 @@ body{
 
 #menu li{
     list-style-type: none;
-    height: 70px;
-    line-height: 70px;
+    height: 80px;
+    line-height: 80px;
     margin: 0 25px;
 }
 
@@ -35,7 +35,7 @@ body{
     height: 40px;
     line-height: 40px;
     padding: 0 15px;
-    margin-top: 13px;
+    margin-top: 18px;
     transform: skewX(-6deg);
 }
 
