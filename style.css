@@ -23,7 +23,10 @@ body{
 .button{
     border-radius: 15px;
     border: 1px solid #193B2D;
-    display: inline;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 15px;
 }
 
 #header{
