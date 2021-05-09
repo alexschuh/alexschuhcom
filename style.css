@@ -34,6 +34,7 @@ h3{
     justify-content: flex-end;
     padding: 0 20px;
     font-style: italic;
+    position: fixed;
 }
 
 #menu li{
@@ -47,7 +48,7 @@ h3{
     height: 50px;
     margin-top: 15px;
     margin-left: 40px;
-    position:absolute;
+    position:fixed;
 }
 
 .button{
