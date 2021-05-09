@@ -90,8 +90,6 @@ h2{
 }
 
 .referencewrapper{
-    background-color: white;
-    border-radius: 15px;
-    padding: 30px;
+    margin: 0 30px;
     margin: auto;
 }
