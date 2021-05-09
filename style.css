@@ -9,6 +9,8 @@ body{
     height: 70px;
     color: #193B2D;
     font-size: 18px;
+    display: flex;
+    justify-content: flex-end;
 }
 
 #menu li{
@@ -16,7 +18,6 @@ body{
     height: 70px;
     line-height: 70px;
     margin: 0 25px;
-    float: right;
 }
 
 .button{
@@ -25,6 +26,7 @@ body{
     height: 40px;
     line-height: 40px;
     padding: 0 15px;
+    margin-top: 15px;
 }
 
 #header{
