@@ -86,6 +86,10 @@ h2{
     margin-top: 50px;
 }
 
+#references img{
+    width: 100px;
+}
+
 .referencewrapper{
     margin: 0 30px;
     margin: auto;
