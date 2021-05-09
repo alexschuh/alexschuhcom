@@ -20,6 +20,11 @@ h2{
     margin: 0;
 }
 
+h3{
+    margin: 0;
+    font-size: 4em;
+}
+
 #menu{
     background-color:#17b978;
     height: 80px;
