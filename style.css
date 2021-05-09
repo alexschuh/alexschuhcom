@@ -7,11 +7,18 @@ body{
 #menu{
     width: 100%;
     background-color: white;
+    height: 70px;
+}
+
+#menu ul{
+    height: 100%;
 }
 
 #menu li{
     list-style-type: none;
     display: inline;
+    height: 70px;
+    line-height: 70%;
 }
 
 #header{
