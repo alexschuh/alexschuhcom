@@ -1,6 +1,17 @@
 body{
     background-color: lightseagreen;
     font-family: Helvetica;
+    margin: 0;
+}
+
+#menu{
+    width: 100%;
+    background-color: white;
+}
+
+#menu li{
+    display: flex;
+    list-style-type: none;
 }
 
 #header{
