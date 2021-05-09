@@ -9,12 +9,9 @@ body{
     background-color: white;
 }
 
-#menu ul{
-    display: flex;
-}
-
 #menu li{
     list-style-type: none;
+    display: inline;
 }
 
 #header{
