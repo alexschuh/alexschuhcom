@@ -83,10 +83,7 @@ h2{
 #references{
     display: flex;
     flex-flow: row wrap;
-}
-
-#references img{
-    width: 100px;
+    margin-top: 50px;
 }
 
 .referencewrapper{
