@@ -38,6 +38,10 @@ body{
     transform: skewX(-6deg);
 }
 
+.button div{
+    transform: skewX(6deg);
+}
+
 #header{
     display: flex;
     margin: 50px auto;
