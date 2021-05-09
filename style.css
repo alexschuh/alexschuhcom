@@ -93,6 +93,11 @@ h3{
     margin: auto;
 }
 
+#reference h3{
+    width: 100%;
+    text-align: center;
+}
+
 #references img{
     width: 100px;
 }
