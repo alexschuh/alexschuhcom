@@ -101,7 +101,7 @@ h3{
 
 #header{
     display: flex;
-    margin: 150px auto 100px auto;
+    margin: 130px auto 80px auto;
     justify-content: center;
     transform: skewY(4deg);
 }
