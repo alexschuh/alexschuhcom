@@ -142,6 +142,6 @@ h3{
     margin-top: 15px;
 }
 
-#rtb h3, .post-date{
+#rtb h3, .post-date, .author{
     display: none;
 }
