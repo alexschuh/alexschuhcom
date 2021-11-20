@@ -115,3 +115,11 @@ h3{
     flex-basis: 30%;
     text-align: center;
 }
+
+
+/*MEDIUM BLOG*/
+
+#rtb{
+    width:700px;
+    z-index: 1;
+}
