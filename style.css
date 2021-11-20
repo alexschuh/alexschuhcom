@@ -77,7 +77,6 @@ h3{
 #header-box:after{
     content: '';
     width: 100%;
-    background-image: url(https://www.twilik.com/sandbox/learnalongo/wave.svg);
     background-color: #fff;
     height: 5rem;
     display: block;
