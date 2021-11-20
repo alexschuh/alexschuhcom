@@ -78,10 +78,12 @@ h3{
     content: '';
     width: 100%;
     background-image: url(https://www.twilik.com/sandbox/learnalongo/wave.svg);
-    background-repeat: no-repeat;
     background-color: #fff;
-    height: 2.25rem;
+    height: 5rem;
     display: block;
+    transform: skewY(-4deg);
+    margin-bottom: -40px;
+    overflow: hidden;
 }
 
 #logo{
