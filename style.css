@@ -132,3 +132,7 @@ h3{
     color: black;
     text-decoration: none!important;
 }
+
+#rtb h3{
+    display: none;
+}
