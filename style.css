@@ -72,17 +72,7 @@ h3{
     -webkit-box-shadow: none;
     box-shadow: none;
     overflow: auto;
-}
-
-#header-box:after{
-    content: '';
-    width: 100%;
-    background-color: #fff;
-    height: 5rem;
-    display: block;
     transform: skewY(-4deg);
-    margin-bottom: -40px;
-    overflow: hidden;
 }
 
 #logo{
@@ -113,6 +103,7 @@ h3{
     display: flex;
     margin: 150px auto 100px auto;
     justify-content: center;
+    transform: skewY(4deg);
 }
 
 #portrait{
