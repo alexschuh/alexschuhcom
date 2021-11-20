@@ -122,4 +122,6 @@ h3{
 #rtb{
     width:700px;
     z-index: 1;
+    top: 150px;
+    margin: auto;
 }
