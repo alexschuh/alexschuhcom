@@ -121,7 +121,7 @@ h3{
 /*MEDIUM BLOG*/
 
 #rtb{
-    width:700px;
+    width:90%;
     z-index: 1;
     top: 150px;
     margin: auto;
@@ -130,4 +130,8 @@ h3{
 #rtb h2{
     font-family: Poppins;
     color: black;
+}
+
+.rtb-col{
+    margin: 0px 30px;
 }
