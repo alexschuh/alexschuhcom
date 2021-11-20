@@ -11,7 +11,7 @@ body{
     box-sizing: border-box;         /* Opera/IE 8+ */
 }
 
-a:-webkit-any-link {
+a {
     font-decoration: none!important;
 }
 
