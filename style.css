@@ -130,9 +130,5 @@ h3{
 #rtb h2{
     font-family: Poppins;
     color: black;
-    text-decoration: none;
-}
-
-#rtb h2 a{
-    text-decoration: none;
+    text-decoration: none!important;
 }
