@@ -141,6 +141,6 @@ h3{
     text-decoration: none!important;
 }
 
-#rtb h3{
+#rtb h3, .post-date{
     display: none;
 }
