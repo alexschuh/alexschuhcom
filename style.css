@@ -126,3 +126,8 @@ h3{
     top: 150px;
     margin: auto;
 }
+
+#rtb h2{
+    font-family: Poppins;
+    color: black;
+}
