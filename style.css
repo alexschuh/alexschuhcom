@@ -51,7 +51,7 @@ h3{
     margin-top: -20px;
 }
 
-#menu *{
+#menu > *{
     transform: skewY(1deg);
 }
 
