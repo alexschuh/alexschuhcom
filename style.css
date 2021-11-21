@@ -159,7 +159,7 @@ h3{
     transform: skewY(-4deg);
 }
 
-#footer-box *{
+#footer-box > *{
     transform: skewY(4deg);
 }
 
