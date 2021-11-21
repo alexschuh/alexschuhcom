@@ -144,6 +144,21 @@ h3{
     text-align: center;
 }
 
+#footer-box{
+    background: #17b978;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-radius: 0;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    overflow: auto;
+    transform: skewY(-4deg);
+}
+
 
 /*MEDIUM BLOG*/
 
@@ -162,6 +177,6 @@ h3{
     margin-top: 15px;
 }
 
-#rtb h3, .post-date, .author, .btn{
+#rtb h3, .post-date, .author, .btn, .post-author{
     display: none;
 }
