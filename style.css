@@ -161,6 +161,8 @@ h3{
     top: 150px;
     margin: auto;
     font-family: Helvetica;
+    margin-top: 150px;
+    position: relative;
 }
 
 #rtb h2{
