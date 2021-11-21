@@ -159,6 +159,10 @@ h3{
     transform: skewY(-4deg);
 }
 
+#footer-box *{
+    transform: skewY(4deg);
+}
+
 
 /*MEDIUM BLOG*/
 
