@@ -158,11 +158,9 @@ h3{
 #rtb{
     width:90%;
     z-index: 1;
-    top: 150px;
     margin: auto;
     font-family: Helvetica;
     margin-top: 150px;
-    position: relative;
 }
 
 #rtb h2{
