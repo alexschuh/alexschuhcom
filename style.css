@@ -164,6 +164,16 @@ h3{
     transform: skewY(4deg);
 }
 
+#footer-box input{
+    width: 80%;
+    height: 40px;
+    border: none;
+    padding: 0px 20px;
+    font-size: 1em;
+    font-family: 'Poppins';
+    margin-bottom: 20px;
+}
+
 
 /*MEDIUM BLOG*/
 
