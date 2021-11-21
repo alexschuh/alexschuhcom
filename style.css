@@ -93,7 +93,6 @@ h3{
     display: flex;
     margin: 130px auto 80px auto;
     justify-content: center;
-    transform: skewY(4deg);
 }
 
 #portrait{
