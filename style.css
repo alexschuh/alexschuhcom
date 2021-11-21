@@ -147,11 +147,7 @@ h3{
 #footer-box{
     background: #17b978;
     padding: 150px;
-    
-}
-
-#footer-box form{
-    transform: skewY(4deg);
+    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
 }
 
 #footer-box input{
