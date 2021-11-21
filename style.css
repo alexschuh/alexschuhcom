@@ -146,18 +146,8 @@ h3{
 
 #footer-box{
     background: #17b978;
-    padding-top: 0;
-    padding-bottom: 0;
-    border-radius: 0;
-    border-top: none;
-    border-right: none;
-    border-bottom: none;
-    border-left: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    overflow: auto;
-    transform: skewY(-4deg);
     padding: 150px;
+    
 }
 
 #footer-box form{
