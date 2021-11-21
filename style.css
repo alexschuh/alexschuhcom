@@ -157,9 +157,10 @@ h3{
     box-shadow: none;
     overflow: auto;
     transform: skewY(-4deg);
+    padding: 150px;
 }
 
-#footer-box > *{
+#footer-box form{
     transform: skewY(4deg);
 }
 
