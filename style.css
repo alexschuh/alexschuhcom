@@ -62,17 +62,7 @@ h3{
 
 #header-box{
     background: #17b978;
-    padding-top: 0;
-    padding-bottom: 0;
-    border-radius: 0;
-    border-top: none;
-    border-right: none;
-    border-bottom: none;
-    border-left: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    overflow: auto;
-    transform: skewY(-4deg);
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
 }
 
 #logo{
@@ -147,7 +137,7 @@ h3{
 #footer-box{
     background: #17b978;
     padding: 150px;
-    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 20%, 100% 0, 100% 100%, 0% 100%);
 }
 
 #footer-box input{
