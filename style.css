@@ -102,6 +102,7 @@ h3{
     right: -100px;
     position: absolute;
     margin-top: 50px;
+    transform: rotate(-6deg);
 }
 
 #hithere{
