@@ -139,6 +139,12 @@ h3{
     background: #003B36;
     clip-path: polygon(0 20%, 100% 0, 100% 100%, 0% 100%);
     padding: 220px 0px 100px 0px;
+    display: grid;
+    justify-items: center;
+}
+
+#footer-box form{
+    width: 600px;
 }
 
 #footer-box input{
