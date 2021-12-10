@@ -55,12 +55,12 @@ h3{
 }
 
 .active{
-    text-decoration: underline;
+    border-bottom: 2px solid #FFB703;
 }
 
 #menu li{
     list-style-type: none;
-    height: 80px;
+    height: 60px;
     line-height: 80px;
     margin: 0 25px;
 }
