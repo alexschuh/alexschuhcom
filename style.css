@@ -13,7 +13,7 @@ body{
 
 a, a:link, a:visited {
     text-decoration: none;
-    color: #000000;
+    color: #FFB703;
 }
 
 h1{
@@ -34,7 +34,7 @@ h3{
 }
 
 #menu{
-    background-color:#17b978;
+    background-color:#003B36;
     height: 80px;
     color: #FFB703;
     font-size: 18px;
