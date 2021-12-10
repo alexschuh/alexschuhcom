@@ -64,6 +64,7 @@ h3{
 #header-box{
     background: #003B36;
     clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+    color: #FFB703;
 }
 
 #logo{
