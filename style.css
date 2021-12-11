@@ -127,10 +127,11 @@ h3{
     height: 220px;
     width: 600px;
     margin: auto;
+    display: flex;
 }
 
 #quotequote{
-    font-size: 6em;
+    font-size: 8em;
 }
 
 #references{
