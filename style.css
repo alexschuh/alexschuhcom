@@ -177,6 +177,11 @@ h3{
     justify-items: center;
 }
 
+#footer-box .button{
+    margin-left: 0;
+    position: relative;
+}
+
 #footer-box form{
     width: 600px;
 }
