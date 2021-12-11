@@ -226,10 +226,6 @@ h3{
     margin-top: 15px;
 }
 
-#rtb p, .excerpt{
-    display: none;
-}
-
 #rtb h3, .post-date, .author, .btn, .post-author{
     display: none;
 }
