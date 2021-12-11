@@ -215,11 +215,6 @@ h3{
     margin-top: 80px;
 }
 
-#rtb a{
-    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
-}
-}
-
 #rtb h2{
     font-family: Poppins;
     color: black;
