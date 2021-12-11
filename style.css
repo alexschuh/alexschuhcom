@@ -226,6 +226,10 @@ h3{
     margin-top: 15px;
 }
 
+#rtb p{
+    display: none;
+}
+
 #rtb h3, .post-date, .author, .btn, .post-author{
     display: none;
 }
