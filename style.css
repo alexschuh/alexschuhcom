@@ -226,7 +226,7 @@ h3{
     margin-top: 15px;
 }
 
-#rtb p{
+#rtb p, .excerpt{
     display: none;
 }
 
