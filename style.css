@@ -182,6 +182,14 @@ h3{
     position: relative;
 }
 
+#footer-box h3{
+    margin: 0;
+    font-size: 2em;
+    font-weight: 600;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
 #footer-box form{
     width: 600px;
 }
