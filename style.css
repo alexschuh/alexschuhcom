@@ -126,12 +126,13 @@ h3{
 }
 
 #quote{
-    padding-top: 40px;
+    padding-top: 75px;
     height: 220px;
-    width: 800px;
+    width: 900px;
     margin: auto;
     display: flex;
-    font-size: 1.5em;
+    font-size: 1.8em;
+    font-weight: 300!important;
 }
 
 #quotequote{
