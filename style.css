@@ -132,7 +132,10 @@ h3{
     margin: auto;
     display: flex;
     font-size: 1.8em;
-    font-weight: 300!important;
+}
+
+#quote h2{
+    font-weight: 350;
 }
 
 #quotequote{
