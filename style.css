@@ -177,7 +177,7 @@ h3{
     justify-items: center;
 }
 
-#footer-box .button{
+#footer-box #logo{
     margin-left: 0;
     position: relative;
 }
