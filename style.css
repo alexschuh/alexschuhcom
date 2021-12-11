@@ -89,6 +89,7 @@ h3{
     margin-top: 18px;
     transform: skewX(-6deg);
     margin-right: 15x;
+    cursor: pointer;
 }
 
 .button div{
