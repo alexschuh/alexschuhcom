@@ -180,6 +180,7 @@ h3{
 #footer-box #logo{
     margin-left: 0;
     position: relative;
+    margin-top: -5px;
 }
 
 #footer-box h3{
