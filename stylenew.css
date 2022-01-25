@@ -17,7 +17,7 @@ body{
     position: relative;
     height: 241px;
     left: 146px;
-    top: 158px;
+    margin-top: 158px;
     font-style: normal;
     font-weight: bold;
     font-size: 64px;
@@ -43,7 +43,7 @@ body{
     width: 254px;
     height: 69px;
     left: 146px;
-    top: 493px;
+    margin-top: -30px;
     background-color: #FFB703;
     border-radius: 10px;
     line-height: 69px;
@@ -57,7 +57,7 @@ body{
     width: 242px;
     height: 69px;
     left: 432px;
-    top: 493px;
+    margin-top: -30px;
     border: 3px solid #193B2D;
     box-sizing: border-box;
     border-radius: 10px;
