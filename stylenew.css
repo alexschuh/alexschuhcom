@@ -141,14 +141,15 @@ body{
 
 .liferunthrough-highlight{
     font-size: 30px;
-    font-weight: 400;
+    font-weight: bold;
     text-align: left;
     width: 100%;
 }
 
 .liferunthrough-descr{
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 400;
+    font-style: italic;
     color: #FFB703;
     text-align: left;
     margin-top: 6px;
