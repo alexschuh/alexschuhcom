@@ -132,3 +132,14 @@ body{
     font-size: 48px;
     font-weight: bold;
 }
+
+.liferunthrough-highlight{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.liferunthrough-descr{
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFB703;
+}
