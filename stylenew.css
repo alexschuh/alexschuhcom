@@ -89,6 +89,14 @@ body{
     text-align: center;
 }
 
+#clients:before{
+    width: 100%;
+    height:108px;
+    content: "before ";
+    background-image: url(wigglyline.png);
+
+}
+
 #clients div{
     width: 100%;
     margin-bottom: 40px;
