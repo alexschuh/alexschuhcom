@@ -1,3 +1,11 @@
 body{
     background-color: blue;
 }
+
+#logo{
+    position: absolute;
+    width: 66px;
+    height: 69.5px;
+    left: 146px;
+    top: 57px;
+}
