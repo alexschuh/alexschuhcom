@@ -38,6 +38,10 @@ body{
     top: 307px;
 }
 
+#ctawrapper{
+    display: flex;
+}
+
 .primarycta{
     position: relative;
     width: 254px;
