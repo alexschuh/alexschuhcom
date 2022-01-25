@@ -74,3 +74,9 @@ body{
     top: 260px;
     transform: rotate(-20deg);
 }
+
+#clients{
+    background-color: #F6F6F6;
+    font-weight: bold;
+    font-size: 35px;
+}
