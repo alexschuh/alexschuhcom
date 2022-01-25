@@ -201,7 +201,8 @@ body{
     text-align: left;
 }
 
-.bars{
+.skills-bars{
     margin-left: auto;
     margin-right: 100px;
+    width: 250px;
 }
