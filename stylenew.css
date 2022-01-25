@@ -94,7 +94,7 @@ body{
     height: 108px;
     left: 0;
     position: absolute;
-    margin-top: -145px;
+    margin-top: -100px;
     content: "";
     background-size: 100%!important;
     background: no-repeat;
@@ -106,7 +106,7 @@ body{
     height: 194px;
     left: 0;
     position: absolute;
-    margin-top: 105px;
+    margin-top: 80px;
     content: "";
     background-size: 100%!important;
     background: no-repeat;
