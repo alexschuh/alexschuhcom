@@ -133,6 +133,11 @@ body{
     font-weight: bold;
 }
 
+.liferunthrough-wrapper{
+    display: grid;
+    grid: 1fr 1fr;
+}
+
 .liferunthrough-highlight{
     font-size: 30px;
     font-weight: bold;
