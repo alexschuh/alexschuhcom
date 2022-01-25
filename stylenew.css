@@ -135,7 +135,7 @@ body{
 
 .liferunthrough-wrapper{
     float: right;
-    right: 30px;
+    margin-right: 50px;
 }
 
 .liferunthrough-highlight{
