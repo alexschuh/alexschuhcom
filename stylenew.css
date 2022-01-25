@@ -66,3 +66,11 @@ body{
     font-size: 27px;
     color: #193B2D;
 }
+
+.headerglass{
+    position: absolute;
+    width: 507.05px;
+    height: 326.47px;
+    left: 1003px;
+    top: 260px;
+}
