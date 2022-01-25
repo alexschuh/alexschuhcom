@@ -17,7 +17,7 @@ body{
     position: relative;
     height: 241px;
     left: 146px;
-    top: 238px;
+    top: 158px;
     font-style: normal;
     font-weight: bold;
     font-size: 64px;
@@ -68,7 +68,7 @@ body{
 }
 
 .headerglass{
-    position: relative;
+    position: absolute;
     width: 507.05px;
     left: 1003px;
     top: 260px;
