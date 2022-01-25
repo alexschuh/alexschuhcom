@@ -134,15 +134,15 @@ body{
 }
 
 .liferunthrough-wrapper{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    width: max-content;
+    float: right;
+    right: 30px;
 }
 
 .liferunthrough-highlight{
     font-size: 30px;
     font-weight: bold;
     text-align: left;
+    width: 100%;
 }
 
 .liferunthrough-descr{
