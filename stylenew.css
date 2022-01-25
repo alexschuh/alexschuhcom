@@ -93,8 +93,7 @@ body{
     width: 100%;
     height:108px;
     content: "before ";
-    background-image: url(wigglyline.png);
-
+    background-image: url(http://alexschuh.com/wigglyline.png);
 }
 
 #clients div{
