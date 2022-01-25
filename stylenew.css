@@ -24,3 +24,8 @@ body{
     line-height: 96px;
     color: #193B2D;
 }
+
+.headertextsmaller{
+    font-weight: medium;
+    font-size: 50px;
+}
