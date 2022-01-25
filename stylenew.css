@@ -96,9 +96,9 @@ body{
     position: absolute;
     margin-top: -145px;
     content: "";
-    background-image: url(http://alexschuh.com/wigglyline.png);
     background-size: 100%!important;
     background: no-repeat;
+    background-image: url(http://alexschuh.com/wigglyline.png);
 }
 
 #clients:after{
@@ -108,9 +108,9 @@ body{
     position: absolute;
     margin-top: 105px;
     content: "";
-    background-image: url(http://alexschuh.com/wigglyline2.png);
     background-size: 100%!important;
     background: no-repeat;
+    background-image: url(http://alexschuh.com/wigglyline2.png);
 }
 
 #clients div{
