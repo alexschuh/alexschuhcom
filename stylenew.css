@@ -34,9 +34,8 @@ body{
 .headerline{
     position: absolute;
     width: 317px;
-    height: 4px;
     left: 425px;
-    top: 319px;
+    top: 307px;
 }
 
 .primarycta{
