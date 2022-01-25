@@ -46,7 +46,7 @@ body{
     position: relative;
     width: 254px;
     height: 69px;
-    left: 146px;
+    margin-left: 146px;
     margin-top: 10px;
     background-color: #FFB703;
     border-radius: 10px;
