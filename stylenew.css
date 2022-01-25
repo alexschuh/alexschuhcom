@@ -6,7 +6,7 @@ body{
 }
 
 #logo{
-    position: absolute;
+    position: relative;
     width: 66px;
     height: 69.5px;
     left: 146px;
@@ -14,7 +14,7 @@ body{
 }
 
 #headertext{
-    position: absolute;
+    position: relative;
     height: 241px;
     left: 146px;
     top: 238px;
@@ -32,14 +32,14 @@ body{
 }
 
 .headerline{
-    position: absolute;
+    position: relative;
     width: 317px;
     left: 425px;
     top: 307px;
 }
 
 .primarycta{
-    position: absolute;
+    position: relative;
     width: 254px;
     height: 69px;
     left: 146px;
@@ -53,7 +53,7 @@ body{
 }
 
 .secondarycta{
-    position: absolute;
+    position: relative;
     width: 242px;
     height: 69px;
     left: 432px;
@@ -68,7 +68,7 @@ body{
 }
 
 .headerglass{
-    position: absolute;
+    position: relative;
     width: 507.05px;
     left: 1003px;
     top: 260px;
