@@ -32,7 +32,7 @@ body{
 }
 
 .headerline{
-    position: relative;
+    position: absolute;
     width: 317px;
     left: 425px;
     top: 307px;
