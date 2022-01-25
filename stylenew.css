@@ -42,3 +42,17 @@ body{
     text-align: center;
     font-size: 27px;
 }
+
+.secondarycta{
+    position: absolute;
+    width: 242px;
+    height: 69px;
+    left: 432px;
+    top: 493px;
+    border: 2.5px solid #193B2D;
+    box-sizing: border-box;
+    border-radius: 10px;
+    line-height: 69px;
+    text-align: center;
+    font-size: 27px;
+}
