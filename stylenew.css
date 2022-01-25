@@ -2,6 +2,7 @@
 
 body{
     font-family: Poppins;
+    box-sizing:border-box;
 }
 
 #logo{
@@ -49,10 +50,10 @@ body{
     height: 69px;
     left: 432px;
     top: 493px;
-    border: 2.5px solid #193B2D;
+    border: 3px solid #193B2D;
     box-sizing: border-box;
     border-radius: 10px;
-    line-height: 69px;
+    line-height: 63px;
     text-align: center;
     font-size: 27px;
 }
