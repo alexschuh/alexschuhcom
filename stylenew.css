@@ -31,6 +31,14 @@ body{
     line-height: 72px;
 }
 
+.headerline{
+    position: absolute;
+    width: 317px;
+    height: 4px;
+    left: 425px;
+    top: 319px;
+}
+
 .primarycta{
     position: absolute;
     width: 254px;
