@@ -133,6 +133,11 @@ body{
     font-weight: bold;
 }
 
+.liferunthrough-line{
+    position: absolute;
+    width: 317px;
+}
+
 .liferunthrough-wrapper{
     margin-right: 50px;
     margin-left: auto;
