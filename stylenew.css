@@ -29,3 +29,15 @@ body{
     font-size: 50px;
     line-height: 72px;
 }
+
+.primarycta{
+    position: absolute;
+    width: 254px;
+    height: 69px;
+    left: 146px;
+    top: 493px;
+    background-color: #FFB703;
+    border-radius: 10px;
+    line-height: 69px;
+    text-align: center;
+}
