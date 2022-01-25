@@ -104,11 +104,9 @@ body{
     height: 108px;
     left: 0;
     position: absolute;
-    margin-top: -145px;
+    margin-top: 105px;
     content: "";
-    background-image: url(http://alexschuh.com/wigglyline.png);
-    transform: rotate(180deg);
-
+    background-image: url(http://alexschuh.com/wigglyline2.png);
 }
 
 #clients div{
