@@ -136,6 +136,7 @@ body{
 .liferunthrough-line{
     position: absolute;
     width: 317px;
+    margin-top: -21px;
 }
 
 .liferunthrough-wrapper{
