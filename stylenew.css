@@ -210,7 +210,8 @@ body{
 
 .skills-love-line{
     position: absolute;
-    width: 349px;
-    margin-top: -24px;
-    margin-left: -12px;
+    width: 256px;
+    height: 37px;
+    margin-top: 84px;
+    margin-left: -500px;
 }
