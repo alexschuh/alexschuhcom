@@ -207,3 +207,10 @@ body{
     text-align: left;
     margin-left: 133px;
 }
+
+.skills-love-line{
+    position: absolute;
+    width: 349px;
+    margin-top: -24px;
+    margin-left: -12px;
+}
