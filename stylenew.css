@@ -76,7 +76,7 @@ body{
 .headerglass{
     position: absolute;
     width: 507.05px;
-    left: 1003px;
+    right: -68px;
     top: 260px;
     transform: rotate(-20deg);
 }
