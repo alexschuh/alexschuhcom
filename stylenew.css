@@ -176,7 +176,6 @@ body{
     border-image: url("borderwiggle.jpg");
     border-image-slice: 150;
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
