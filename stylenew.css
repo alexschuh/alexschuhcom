@@ -176,6 +176,8 @@ body{
     border-image: url("borderwiggle.jpg");
     border-image-slice: 150;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .skills-love{
@@ -202,4 +204,5 @@ body{
 .container-skills div{
     font-size: 18px;
     text-align: right;
+    line-height: 67px;
 }
