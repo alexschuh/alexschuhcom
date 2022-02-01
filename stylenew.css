@@ -175,31 +175,8 @@ body{
     border: 70px solid;
     border-image: url("borderwiggle.jpg");
     border-image-slice: 150;
+    display: flex;
 }
-
-/*#skills:before{
-    width: 100%;
-    height: 108px;
-    left: 0;
-    position: absolute;
-    margin-top: -100px;
-    content: "";
-    background-size: 100%!important;
-    background: no-repeat;
-    background-image: url(http://alexschuh.com/wigglyline.png);
-}
-
-#skills:after{
-    width: 100%;
-    height: 194px;
-    left: 0;
-    position: absolute;
-    margin-top: 80px;
-    content: "";
-    background-size: 100%!important;
-    background: no-repeat;
-    background-image: url(http://alexschuh.com/wigglyline2.png);
-}*/
 
 .skills-love{
     font-size: 96px;
@@ -214,4 +191,9 @@ body{
     height: 37px;
     margin-top: 81px;
     margin-left: -500px;
+}
+
+.skills-love-bars{
+    right: 0;
+    height: 400px;
 }
