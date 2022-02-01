@@ -198,3 +198,8 @@ body{
     height: 400px;
     margin-left: auto;
 }
+
+.container-skills div{
+    font-size: 18px;
+    text-align: right;
+}
