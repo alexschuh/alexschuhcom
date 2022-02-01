@@ -169,7 +169,7 @@ body{
     padding: 50px 0px;
     margin: 200px 0px 100px 0px;
     text-align: center;
-    border-image: url("/borderwiggle") 27 space;
+    border-image: url("borderwiggle.jpg") 27 space;
 }
 
 /*#skills:before{
