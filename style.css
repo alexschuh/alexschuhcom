@@ -8,6 +8,10 @@ body{
     overflow-x: hidden;
 }
 
+a, a:link, a:visited {
+    text-decoration: none;
+}
+
 #logo{
     position: relative;
     width: 66px;
