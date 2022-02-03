@@ -222,6 +222,16 @@ a, a:link, a:visited {
     margin: auto;
 }
 
+.blog-prev-heading-wrapper{
+    display: flex;
+}
+
+.blog-prev-heading-wrapper img{
+    height: 200px;
+    margin-left: 40px;
+    margin: auto;
+}
+
 .blog-prev-heading{
     font-size: 80px;
     font-weight: bold;
