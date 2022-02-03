@@ -222,6 +222,11 @@ a, a:link, a:visited {
     margin: auto;
 }
 
+.blog-prev-heading{
+    font-size: 48px;
+    font-weight: bold;
+}
+
 /*MEDIUM BLOG*/
 
 #rtb{
