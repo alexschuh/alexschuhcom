@@ -214,8 +214,8 @@ a, a:link, a:visited {
     width: 228px;
 }
 
-#blog-prev .rtb-col:nth-child(1+2+3){
-    border: 10px solid blue;
+#blog-prev .rtb-col:nth-child(n+4){
+    display: none;
 }
 
 /*MEDIUM BLOG*/
