@@ -214,6 +214,10 @@ a, a:link, a:visited {
     width: 228px;
 }
 
+#blog-prev .rtb-col:first-child{
+    border: 10px solid blue;
+}
+
 /*MEDIUM BLOG*/
 
 #rtb{
