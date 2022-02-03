@@ -209,3 +209,24 @@ body{
     line-height: 67px;
     width: 228px;
 }
+
+/*MEDIUM BLOG*/
+
+#rtb{
+    width:90%;
+    z-index: 1;
+    margin: auto;
+    font-family: "Source Serif Pro";
+    margin-top: -200px;
+}
+
+#rtb h2{
+    font-family: Poppins;
+    color: black;
+    text-decoration: none!important;
+    margin-top: 15px;
+}
+
+#rtb h3, .post-date, .author, .btn, .post-author{
+    display: none;
+}
