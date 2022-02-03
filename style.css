@@ -135,7 +135,6 @@ body{
     float: left;
     position: relative;
     margin-top: -220px;
-    margin-left: -300px;
 }
 
 .liferunthrough-heading{
@@ -151,9 +150,7 @@ body{
 }
 
 .liferunthrough-wrapper{
-    margin-right: 50px;
-    margin-left: auto;
-    width: 910px;
+
 }
 
 .liferunthrough-highlight{
