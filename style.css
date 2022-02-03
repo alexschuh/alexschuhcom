@@ -218,6 +218,14 @@ a, a:link, a:visited {
     border: 10px solid blue;
 }
 
+#blog-prev .rtb-col:second-child{
+    border: 10px solid green;
+}
+
+#blog-prev .rtb-col:third-child{
+    border: 10px solid yellow;
+}
+
 /*MEDIUM BLOG*/
 
 #rtb{
