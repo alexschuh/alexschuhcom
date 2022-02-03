@@ -135,6 +135,8 @@ body{
     float: left;
     position: relative;
     margin-top: -220px;
+    margin-left: 70px;
+    margin-right: 50px;
 }
 
 .liferunthrough-heading{
