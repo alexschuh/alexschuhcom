@@ -218,6 +218,10 @@ a, a:link, a:visited {
     display: none;
 }
 
+#blog-prev .secondarycta{
+    margin: auto;
+}
+
 /*MEDIUM BLOG*/
 
 #rtb{
