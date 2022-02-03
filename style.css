@@ -130,6 +130,14 @@ body{
     margin: 150px 0px;
 }
 
+.liferunthrough-stones{
+    height: 750px;
+    float: left;
+    position: relative;
+    margin-top: -220px;
+    margin-left: -300px;
+}
+
 .liferunthrough-heading{
     font-size: 48px;
     font-weight: bold;
@@ -176,6 +184,7 @@ body{
     border-image-slice: 150;
     display: flex;
     align-items: center;
+    width: 100%;
 }
 
 .skills-love{
