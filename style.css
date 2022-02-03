@@ -223,8 +223,10 @@ a, a:link, a:visited {
 }
 
 .blog-prev-heading{
-    font-size: 96px;
+    font-size: 80px;
     font-weight: bold;
+    line-height: 100px;
+    margin-bottom: 60px;
 }
 
 /*MEDIUM BLOG*/
