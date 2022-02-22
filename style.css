@@ -286,6 +286,8 @@ a, a:link, a:visited {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    width: 400px;
+    margin: auto;
 }
 
 #footer h2{
