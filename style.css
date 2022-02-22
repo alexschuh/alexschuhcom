@@ -304,4 +304,6 @@ a, a:link, a:visited {
 #footer .primarycta{
     border: none;
     font-family: 'Poppins';
+    padding: 0px 20px;
+    width: auto;
 }
