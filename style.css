@@ -285,6 +285,10 @@ a, a:link, a:visited {
     width: 100%;
 }
 
+#footer h2{
+    flex: 0 0 100%;
+}
+
 #footer textarea{
     resize: none;
     width: 50%;
@@ -293,6 +297,7 @@ a, a:link, a:visited {
     border-radius: 7px;
     padding: 20px;
     font-family: 'Poppins';
+    flex: 0 0 100%;
 }
 
 #footer input{
@@ -303,6 +308,7 @@ a, a:link, a:visited {
     font-family: 'Poppins';
     text-align: center;
     width: 50%;
+    flex: 0 0 50%;
 }
 
 #footer .primarycta{
@@ -314,4 +320,5 @@ a, a:link, a:visited {
     height: 50px;
     line-height: 50px;
     font-size: 20px;
+    flex: 0 0 100%;
 }
