@@ -59,7 +59,7 @@ a, a:link, a:visited {
     line-height: 69px;
     text-align: center;
     font-size: 27px;
-    color: black;
+    color: #193B2D;
 }
 
 .secondarycta{
@@ -305,5 +305,9 @@ a, a:link, a:visited {
     border: none;
     font-family: 'Poppins';
     padding: 0px 20px;
-    width: auto;
+    width: 100%;
+    margin: 0;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
 }
