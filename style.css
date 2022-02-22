@@ -280,3 +280,7 @@ a, a:link, a:visited {
     align-items: center;
     width: 100%;
 }
+
+#footer textarea{
+    resize: none;
+}
