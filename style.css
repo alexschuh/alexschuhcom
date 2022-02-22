@@ -291,7 +291,6 @@ a, a:link, a:visited {
 
 #footer textarea{
     resize: none;
-    width: 50%;
     height: 200px;
     border: none;
     border-radius: 7px;
@@ -307,7 +306,6 @@ a, a:link, a:visited {
     padding: 0px 20px;
     font-family: 'Poppins';
     text-align: center;
-    width: 50%;
     flex: 0 0 50%;
 }
 
@@ -315,7 +313,6 @@ a, a:link, a:visited {
     border: none;
     font-family: 'Poppins';
     padding: 0px 20px;
-    width: 100%;
     margin: 0;
     height: 50px;
     line-height: 50px;
