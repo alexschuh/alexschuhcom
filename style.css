@@ -302,7 +302,6 @@ a, a:link, a:visited {
     padding: 20px;
     font-family: 'Poppins';
     flex: 0 0 100%;
-    order: 1;
 }
 
 #footer input{
