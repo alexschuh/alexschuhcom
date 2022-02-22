@@ -60,6 +60,7 @@ a, a:link, a:visited {
     text-align: center;
     font-size: 27px;
     color: #193B2D;
+    font-weight: 600;
 }
 
 .secondarycta{
@@ -73,6 +74,7 @@ a, a:link, a:visited {
     line-height: 63px;
     text-align: center;
     font-size: 27px;
+    font-weight: 600;
     color: #193B2D;
 }
 
