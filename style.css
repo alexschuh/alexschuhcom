@@ -265,3 +265,18 @@ a, a:link, a:visited {
 #rtb h3, .post-date, .author, .btn, .post-author, .excerpt{
     display: none;
 }
+
+#footer{
+    background-color: #F6F6F6;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 50px 0px;
+    margin: 200px 0px 100px 0px;
+    text-align: center;
+    border: 70px solid;
+    border-image: url("borderwiggle.jpg");
+    border-image-slice: 150;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
