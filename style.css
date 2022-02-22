@@ -287,6 +287,8 @@ a, a:link, a:visited {
     height: 200px;
     border: none;
     border-radius: 7px;
+    padding: 20px;
+    font-family: 'Poppins';
 }
 
 #footer input{
