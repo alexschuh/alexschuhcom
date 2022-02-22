@@ -300,3 +300,8 @@ a, a:link, a:visited {
     text-align: center;
     width: 50%;
 }
+
+#footer .primarycta{
+    border: none;
+    font-family: 'Poppins';
+}
