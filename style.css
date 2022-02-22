@@ -292,6 +292,7 @@ a, a:link, a:visited {
 
 #footer h2{
     flex: 0 0 100%;
+    -webkit-flex: 0 0 100%;
 }
 
 #footer textarea{
@@ -302,6 +303,7 @@ a, a:link, a:visited {
     padding: 20px;
     font-family: 'Poppins';
     flex: 0 0 100%;
+    -webkit-flex: 0 0 100%;
 }
 
 #footer input{
@@ -312,6 +314,7 @@ a, a:link, a:visited {
     font-family: 'Poppins';
     text-align: center;
     flex: 0 0 50%;
+    -webkit-flex: 0 0 50%;
 }
 
 #footer .primarycta{
@@ -323,5 +326,6 @@ a, a:link, a:visited {
     line-height: 50px;
     font-size: 20px;
     flex: 0 0 100%;
+    -webkit-flex: 0 0 100%;
     width: auto;
 }
