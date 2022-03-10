@@ -317,7 +317,7 @@ a, a:link, a:visited {
     text-align: center;
     flex: 0 0 50%;
     -webkit-flex: 0 0 50%;
-    width: 200px;
+    max-width: 217.5px;
     margin-bottom: 15px;
 }
 
