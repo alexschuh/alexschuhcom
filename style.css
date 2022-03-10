@@ -334,4 +334,5 @@ a, a:link, a:visited {
     flex: 0 0 100%;
     -webkit-flex: 0 0 100%;
     width: auto;
+    cursor: pointer;
 }
