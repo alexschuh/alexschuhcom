@@ -350,3 +350,8 @@ a, a:link, a:visited {
     line-height: 30px;
     margin-top: 40px;
 }
+
+.footer-line{
+    width: 120px;
+    margin-top: -36px;
+}
