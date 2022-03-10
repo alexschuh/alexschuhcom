@@ -306,6 +306,7 @@ a, a:link, a:visited {
     font-family: 'Poppins';
     flex: 0 0 100%;
     -webkit-flex: 0 0 100%;
+    margin-bottom: 15px;
 }
 
 #footer input{
