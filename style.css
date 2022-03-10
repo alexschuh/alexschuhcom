@@ -14,7 +14,6 @@ a, a:link, a:visited {
 
 #logo{
     position: relative;
-    width: 66px;
     height: 69.5px;
     left: 146px;
     top: 57px;
@@ -336,4 +335,8 @@ a, a:link, a:visited {
     -webkit-flex: 0 0 100%;
     width: auto;
     cursor: pointer;
+}
+
+#footer #logo{
+    left: 0;
 }
