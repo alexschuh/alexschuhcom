@@ -296,6 +296,7 @@ a, a:link, a:visited {
     flex: 0 0 100%;
     -webkit-flex: 0 0 100%;
     font-size: 1.2em;
+    margin-bottom: 20px;
 }
 
 #footer textarea{
