@@ -340,3 +340,10 @@ a, a:link, a:visited {
 #footer #logo{
     left: 0;
 }
+
+.footer-small{
+    font-weight: normal;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 30px;
+}
