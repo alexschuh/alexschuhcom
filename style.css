@@ -288,6 +288,7 @@ a, a:link, a:visited {
     flex-direction: column;
     width: 400px;
     margin: auto;
+    flex-direction: row;
 }
 
 #footer h2{
