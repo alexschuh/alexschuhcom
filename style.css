@@ -295,6 +295,7 @@ a, a:link, a:visited {
 #footer h2{
     flex: 0 0 100%;
     -webkit-flex: 0 0 100%;
+    font-size: 1.2em;
 }
 
 #footer textarea{
