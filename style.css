@@ -286,7 +286,7 @@ a, a:link, a:visited {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    width: 400px;
+    width: 450px;
     margin: auto;
     flex-direction: row;
 }
@@ -316,6 +316,7 @@ a, a:link, a:visited {
     text-align: center;
     flex: 0 0 50%;
     -webkit-flex: 0 0 50%;
+    width: 200px;
 }
 
 #footer .primarycta{
