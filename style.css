@@ -185,7 +185,7 @@ a, a:link, a:visited {
     display: flex;
     align-items: center;
     width: 100%;
-    align-content: normal;
+    justify-content: center;
 }
 
 .skills-love{
