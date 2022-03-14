@@ -137,11 +137,17 @@ a, a:link, a:visited {
 
 .liferunthrough-stones{
     height: 600px;
-    float: left;
     position: relative;
     margin-top: -220px;
     margin-left: 70px;
     margin-right: 50px;
+}
+
+.liferunthrough-text{
+    margin-left:auto;
+    margin-right:auto;
+    width: auto;
+    display: block;
 }
 
 .liferunthrough-heading{
