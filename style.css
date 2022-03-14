@@ -133,6 +133,7 @@ a, a:link, a:visited {
 
 #liferunthrough{
     margin: 150px 0px;
+    display: flex;
 }
 
 .liferunthrough-stones{
