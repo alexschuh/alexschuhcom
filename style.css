@@ -60,6 +60,7 @@ a, a:link, a:visited {
     color: #193B2D;
     font-weight: 600;
     padding: 0px 20px;
+    cursor: pointer;
 }
 
 .secondarycta{
@@ -75,6 +76,7 @@ a, a:link, a:visited {
     font-weight: 600;
     color: #193B2D;
     padding: 0px 20px;
+    cursor: pointer;
 }
 
 .headerglass{
