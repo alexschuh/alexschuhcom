@@ -226,6 +226,7 @@ a, a:link, a:visited {
 
 #blog-prev .secondarycta{
     margin: auto;
+    width:269px;
 }
 
 .blog-prev-heading-wrapper{
