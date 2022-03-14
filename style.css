@@ -134,6 +134,7 @@ a, a:link, a:visited {
 #liferunthrough{
     margin: 150px 0px;
     display: flex;
+    justify-content: center;
 }
 
 .liferunthrough-stones{
@@ -145,9 +146,6 @@ a, a:link, a:visited {
 }
 
 .liferunthrough-text{
-    margin: auto;
-    width: auto;
-    display: block;
 }
 
 .liferunthrough-heading{
