@@ -132,7 +132,7 @@ a, a:link, a:visited {
 }
 
 #liferunthrough{
-    margin: 150px 0px;
+    margin: 150px 0px -150px 0px;
     display: flex;
     justify-content: center;
 }
