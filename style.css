@@ -316,6 +316,7 @@ a, a:link, a:visited {
     flex: 0 0 100%;
     -webkit-flex: 0 0 100%;
     margin-bottom: 15px;
+    border: 3.5px solid #d3d3d34f;
 }
 
 #footer input{
@@ -329,6 +330,7 @@ a, a:link, a:visited {
     -webkit-flex: 0 0 50%;
     max-width: 217.5px;
     margin-bottom: 15px;
+    border: 3.5px solid #d3d3d34f;
 }
 
 #footer .primarycta{
