@@ -21,7 +21,6 @@ a, a:link, a:visited {
 
 #headertext{
     position: relative;
-    height: 241px;
     left: 146px;
     margin-top: 128px;
     font-style: normal;
@@ -62,6 +61,7 @@ a, a:link, a:visited {
     font-weight: 600;
     padding: 0px 20px;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 .secondarycta{
@@ -78,6 +78,7 @@ a, a:link, a:visited {
     color: #193B2D;
     padding: 0px 20px;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 .headerglass{
