@@ -378,6 +378,11 @@ a, a:link, a:visited {
         left: 40px;
     }
 
+    .button{
+        width: 90%;
+        margin-right: 0;
+    }
+
     #ctawrapper{
         margin-left: 40px;
         display: block;
