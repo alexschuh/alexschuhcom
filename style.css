@@ -368,7 +368,7 @@ a, a:link, a:visited {
 
 @media (max-width: 700px) {
 
-    #liferunthrough{
+    #liferunthrough, #skills{
         display: block;
     }
 
