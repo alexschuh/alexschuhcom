@@ -372,8 +372,9 @@ a, a:link, a:visited {
 
 @media (max-width: 700px) {
 
-    #logo{
-        left: 30px;
+    #logo,
+    #headertext{
+        left: 40px;
     }
 
     #liferunthrough,
