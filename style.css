@@ -51,7 +51,6 @@ a, a:link, a:visited {
 .button{
     position: relative;
     height: 69px;
-    margin-left: 146px;
     background-color: #FFB703;
     border-radius: 10px;
     line-height: 69px;
