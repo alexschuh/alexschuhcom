@@ -70,6 +70,7 @@ a, a:link, a:visited {
     border-radius: 10px;
     line-height: 63px;
     color: #193B2D;
+    background-color: transparent;
 }
 
 .headerglass{
