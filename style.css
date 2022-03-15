@@ -293,6 +293,7 @@ a, a:link, a:visited {
     flex-wrap: wrap;
     flex-direction: column;
     margin: auto;
+    padding: 0 30px;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
