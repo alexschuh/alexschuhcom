@@ -210,7 +210,11 @@ a, a:link, a:visited {
     height: 400px;
 }
 
-.container-skills div{
+.container-skills{
+    display: flex;
+}
+
+.skills-title div{
     font-size: 18px;
     text-align: right;
     line-height: 67px;
@@ -367,5 +371,5 @@ a, a:link, a:visited {
     #liferunthrough{
         display: block;
     }
-    
+
 }
