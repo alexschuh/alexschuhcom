@@ -377,6 +377,7 @@ a, a:link, a:visited {
     #ctawrapper{
     {
         left: 40px;
+        display: block;
     }
 
     #liferunthrough,
