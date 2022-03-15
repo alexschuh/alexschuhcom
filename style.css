@@ -297,7 +297,7 @@ a, a:link, a:visited {
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    max-width: 28rem;
+    max-width: 32rem;
 }
 
 #footer h2{
