@@ -48,7 +48,7 @@ a, a:link, a:visited {
     display: flex;
 }
 
-.primarycta{
+.button{
     position: relative;
     height: 69px;
     margin-left: 146px;
@@ -64,21 +64,12 @@ a, a:link, a:visited {
     margin-top: 20px;
 }
 
-.secondarycta{
-    position: relative;
-    height: 69px;
-    margin-left: 25px;
+.secondary-button{
     border: 3px solid #193B2D;
     box-sizing: border-box;
     border-radius: 10px;
     line-height: 63px;
-    text-align: center;
-    font-size: 27px;
-    font-weight: 600;
     color: #193B2D;
-    padding: 0px 20px;
-    cursor: pointer;
-    margin-top: 20px;
 }
 
 .headerglass{
