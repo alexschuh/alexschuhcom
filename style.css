@@ -374,4 +374,10 @@ a, a:link, a:visited {
         display: block;
     }
 
+    #footer input{
+        width: 100%;
+        max-width: none;
+        flex: auto;
+    }
+
 }
