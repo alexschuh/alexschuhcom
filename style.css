@@ -376,6 +376,10 @@ a, a:link, a:visited {
     #headertext,
     #ctawrapper{
         left: 40px;
+    }
+
+    #ctawrapper{
+        margin-left: 40px;
         display: block;
     }
 
