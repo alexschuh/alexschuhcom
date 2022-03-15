@@ -379,7 +379,7 @@ a, a:link, a:visited {
     }
 
     #headertext{
-        top: 95px;
+        margin-top: 95px;
     }
 
     .button{
