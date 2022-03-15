@@ -372,7 +372,12 @@ a, a:link, a:visited {
 
 @media (max-width: 700px) {
 
-    #liferunthrough, #skills, .blog-prev-heading-wrapper{
+    #liferunthrough,
+    #skills{
+        display: block;
+    }
+
+    .blog-prev-heading-wrapper{
         display: block;
     }
 
