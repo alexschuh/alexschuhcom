@@ -29,6 +29,7 @@ a, a:link, a:visited {
     font-size: 64px;
     line-height: 96px;
     color: #193B2D;
+    max-width: calc(100% - 146px);
 }
 
 .headertextsmaller{
