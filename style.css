@@ -378,6 +378,10 @@ a, a:link, a:visited {
         left: 40px;
     }
 
+    #headertext{
+        top: 95px;
+    }
+
     .button{
         width: 80%;
         margin-right: 0;
