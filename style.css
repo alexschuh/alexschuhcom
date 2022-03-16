@@ -416,6 +416,11 @@ a, a:link, a:visited {
         display: block;
     }
 
+    .liferunthrough-descr{
+        display:inline-block;
+        margin-left: 0;
+    }
+
     #footer input, #footer .button{
         width: 100%;
         max-width: none;
