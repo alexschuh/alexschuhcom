@@ -416,6 +416,10 @@ a, a:link, a:visited {
         display: block;
     }
 
+    .liferunthrough-stones{
+        display: none;
+    }
+
     .liferunthrough-heading{
         line-height: 53px;
         margin-left: 20px;
