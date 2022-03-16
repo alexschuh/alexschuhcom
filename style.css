@@ -416,6 +416,10 @@ a, a:link, a:visited {
         display: block;
     }
 
+    #liferunthrough{
+        margin: 0;
+    }
+
     .liferunthrough-stones{
         display: none;
     }
@@ -434,6 +438,10 @@ a, a:link, a:visited {
         display:inline-block;
         margin-left: 0;
         margin-bottom: 35px;
+    }
+
+    #skills{
+        margin-top: 100px;
     }
 
     #footer input, #footer .button{
