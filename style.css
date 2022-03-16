@@ -419,6 +419,7 @@ a, a:link, a:visited {
     .liferunthrough-heading{
         line-height: 53px;
         margin-left: 20px;
+        margin-bottom: 45px;
     }
 
     .liferunthrough-highlight{
