@@ -384,6 +384,16 @@ a, a:link, a:visited {
         line-height: 60px;
     }
 
+    .headerglass{
+        position: relative;
+        width: 360.05px;
+        right: auto;
+        top: auto;
+        margin-right: -78px;
+        margin-top: 25px;
+        float: right;
+    }
+
     .headertextsmaller{
         font-size: 30px;
         line-height: 40px;
